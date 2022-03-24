@@ -1,0 +1,14 @@
+.jumbotron {
+    background: url(../assets/coffee.jpeg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.jumbo-container {
+    padding-top: 25%;
+}
+
+.jumbo-header {
+    font-size: 75px;
+}
+
